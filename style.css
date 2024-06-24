@@ -1,0 +1,23 @@
+p
+{
+    color:darkcyan;
+    font-size: 20px;
+
+}
+.echo1
+{
+    color:red;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.echo2
+{
+    color:rgb(250, 96, 96);
+    font-size: 17px;
+}
+#titleheading{
+    font-size:50px;
+    color:gold;
+    background-color: seagreen;
+}
